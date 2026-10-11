@@ -1,0 +1,10 @@
+# 构建产物（可由 source/ 用 PyInstaller + CCAT.iss 重新生成）
+app/
+build/
+dist_build/
+
+# 运行时输出与缓存
+output/
+__pycache__/
+*.pyc
+.idea/

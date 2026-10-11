@@ -7,6 +7,7 @@
 | 目录 | 说明 |
 | --- | --- |
 | [mp3-player/](mp3-player/) | 本地音乐播放器（PyQt5）：文件夹树浏览、列表循环/单曲循环/随机播放，提供 Windows 安装包 |
+| [1-USART-2-ECAT-ESI-Read/](1-USART-2-ECAT-ESI-Read/) | EtherCAT ESI & 串口工具（CCAT）：ESI XML 解析、PDO/SDO 查看、USART 串口，提供 Windows 安装包 |
 
 ## 添加新工具
 
