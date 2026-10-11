@@ -1,0 +1,8 @@
+# 构建产物（可由 source/ 用 PyInstaller + MP3Player.iss 重新生成）
+app/
+build/
+dist_build/
+
+# Python 缓存
+__pycache__/
+*.pyc
